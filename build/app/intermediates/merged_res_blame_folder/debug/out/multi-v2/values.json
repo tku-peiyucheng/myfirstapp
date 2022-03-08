@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/peiyucheng/AndroidStudioProjects/myfirstapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/peiyucheng/StudioProjects/myfirstapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/peiyucheng/AndroidStudioProjects/myfirstapp/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/peiyucheng/StudioProjects/myfirstapp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

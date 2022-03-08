@@ -1,7 +1,3 @@
-myfirstapp
-2.16
-file:///Users/peiyucheng/AndroidStudioProjects/myfirstapp/
-file:///Users/peiyucheng/AndroidStudioProjects/myfirstapp/lib/
 async
 2.12
 file:///Users/peiyucheng/Development/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/
@@ -102,4 +98,8 @@ flutter_test
 2.12
 file:///Users/peiyucheng/Development/flutter/packages/flutter_test/
 file:///Users/peiyucheng/Development/flutter/packages/flutter_test/lib/
+myfirstapp
+2.16
+file:///Users/peiyucheng/StudioProjects/myfirstapp/
+file:///Users/peiyucheng/StudioProjects/myfirstapp/lib/
 2
